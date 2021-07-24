@@ -10,7 +10,7 @@
 - [Contribution](#contribution)
 - [Testing](#testing)
 - [Licenses](#licenses)
-- [Contact Information](#contactinformation)
+- [Contact Information](#contact-information)
 
 
 ## Description
