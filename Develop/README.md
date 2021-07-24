@@ -1,4 +1,4 @@
-# d
+# README.md Generator
  
   <a href="https://img.shields.io/badge/License-undefined-brightgreen">
   <img src="https://img.shields.io/badge/License-undefined-brightgreen"></a>
@@ -14,21 +14,21 @@
 
 
 ### Description
-d
+Test run for my README Generator
 
 ### Installation
-d
+please see the main README file
 
 ### Usage
-d
+please see the original README file
 ### Contribution
 
-d
+nothing inappropriate!!!
 ### Test-Instructions
 
-d
+run "npm run test"
 
 ### Contact-Information
-[Github Profile](https://github.com/d)
-d
+[Github Profile](https://github.com/coryjpiette)
+coryjpiette@gmail.com
 
