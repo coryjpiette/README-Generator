@@ -37,3 +37,5 @@ ${data.email}
 
 `;
 } 
+// export generateMarkdown
+module.exports = generateMarkdown;
