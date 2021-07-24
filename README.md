@@ -14,6 +14,10 @@
 
 
 ## Description
+The README.md is a file written by the GitHub repository owner that communicates to the user information that may be helpful when running the application.
+
+README. Files can be burdensome and time-consuming, so feel free to save yourself some time by using this README Generator for free!
+
 
 ## Installation
 
