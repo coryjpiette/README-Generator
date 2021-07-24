@@ -9,6 +9,8 @@
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Testing](#testing)
+- [Licenses](#licenses)
+- [Contact Information](#contactinformation)
 
 
 ## Description
@@ -20,3 +22,7 @@
 ## Contribution
 
 ## Testing
+
+##Licenses
+
+##Contact Information
