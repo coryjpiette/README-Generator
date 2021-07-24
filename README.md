@@ -40,5 +40,5 @@ If you would like to contribute to this repsitory (improvements are always welco
 ## Testing
 
 ## Licenses
-
+<a href="https://img.shields.io/badge/License-MIT-brightgreen"><img alt="M.I.T. License use" src="https://img.shields.io/badge/License-MIT-brightgreen"></a>
 ## Contact Information
