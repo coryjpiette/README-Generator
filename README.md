@@ -42,3 +42,7 @@ If you would like to contribute to this repsitory (improvements are always welco
 ## Licenses
 <a href="https://img.shields.io/badge/License-MIT-brightgreen"><img alt="M.I.T. License use" src="https://img.shields.io/badge/License-MIT-brightgreen"></a>
 ## Contact Information
+Email Address: coryjpiette@gmail.com
+[Github Profile](https://github.com/coryjpiette)
+[Github Repo](https://github.com/coryjpiette/README-Generator)
+[Github Live Page](https://coryjpiette.github.io/README-Generator/)
