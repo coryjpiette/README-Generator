@@ -72,7 +72,25 @@ function initialize() {
             type: "input",
             name: "tests",
             message: "Please enter the test instructions"
+        },
+        {
+            type: "checkbox",
+            message: "Licensing Options",
+            name: "license",
+            choices: [
+                "None",
+                "Apache2.0",
+                "Boost Software 1.0",
+                "Creative Commons Zero v1.0 Universal",
+                "Eclipse Public 2.0",
+                "GNU Affero General Public v3.0",
+                "GNU Public v3.0",
+                "MIT",
+                "Mozilla Public 2.0"
+            ]
+
         }
+
     ]
     )
 }
