@@ -21,6 +21,17 @@ README. Files can be burdensome and time-consuming, so feel free to save yoursel
 
 ## Installation
 
+Please use the following instructions for installing the README Generator:
+1. Be sure that node.js is installed on your machine
+2. Open a new Gitbash terminal
+3. Clone the following repository: git@github.com:coryjpiette/README-Generator.git
+4. Navigate into the appropriate directory (ex: “cd README-Generator”)
+5. Navigate further into the “Develop” folder
+6. Type “npm install inquirer” to download the Inquirer software 
+7. Type “node index.js”
+8. You will be prompted to enter repository information
+
+
 ## Usage
 
 ## Contribution
