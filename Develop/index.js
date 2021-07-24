@@ -1,7 +1,7 @@
 
 
 // creating variable and requiring Markdown.js 
-var generateMarkdown = require("./markdown");
+var generateMarkdown = require("./Packages/markdown");
 
 // creating variable and function to pull fs
 const fs = require("fs");
@@ -14,14 +14,14 @@ const inquirer = require("inquirer");
 const path = require("path");
 
 
-// function to write README file takes in fileName and user data parameters
+// function to write README file 
 function writeToFile(fileName, data) {
     // writing and syncing file
     fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 // function to initialize program
 
-function initialize() {
+function init() {
     // prompted questions from the inquirer
 
     inquirer.prompt([
@@ -91,6 +91,16 @@ function initialize() {
 
         }
 
-    ]
-    )
+
+        // Where the user input is stored (data)
+
+
+    ]).then(function (data) {
+
+        console.log("Generating Markdown...");
+
+        writeToFile("README.md", generateMarkdown({ ...data }));
+    });
 }
+// function call to initialize program
+init()
