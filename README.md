@@ -35,6 +35,7 @@ Please use the following instructions for installing the README Generator:
 ## Usage
 
 ## Contribution
+If you would like to contribute to this repsitory (improvements are always welcome!), my contact information is listed below.
 
 ## Testing
 
