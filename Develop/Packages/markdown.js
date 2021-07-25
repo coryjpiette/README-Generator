@@ -37,7 +37,7 @@ ${data.email}
 
 [Github Profile](https://github.com/${data.username})
 
-[Githib Live Page](https://${data.username}.github.io/README-Generator/)
+[Github Live Page](https://${data.username}.github.io/README-Generator/)
 
 `;
 } 

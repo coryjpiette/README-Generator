@@ -34,5 +34,5 @@ coryjpiette@gmail.com
 
 [Github Profile](https://github.com/coryjpiette)
 
-[Githib Live Page](https://coryjpiette.github.io/README-Generator/)
+[Github Live Page](https://coryjpiette.github.io/README-Generator/)
 
