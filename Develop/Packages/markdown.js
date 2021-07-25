@@ -32,8 +32,12 @@ ${data.contribution}
 ${data.tests}
 
 ### Contact-Information
-[Github Profile](https://github.com/${data.username})
+
 ${data.email}
+
+[Github Profile](https://github.com/${data.username})
+
+[Githib Live Page](https://${data.username}.github.io/README-Generator/)
 
 `;
 } 

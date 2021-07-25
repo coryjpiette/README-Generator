@@ -16,7 +16,7 @@ const path = require("path");
 
 // function to write README file 
 function writeToFile(fileName, data) {
-    // writing and syncing file
+    // writing and syncing filenide
     fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 // function to initialize program
