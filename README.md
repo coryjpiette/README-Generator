@@ -34,6 +34,8 @@ Please use the following instructions for installing the README Generator:
 
 ## Usage
 
+![image](https://user-images.githubusercontent.com/60293516/126903946-42f0491f-abee-4d9b-b4c6-d9b8ab5bacd1.png)
+
 ## Contribution
 If you would like to contribute to this repsitory (improvements are always welcome!), my contact information is listed below.
 
