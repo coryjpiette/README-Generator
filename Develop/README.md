@@ -29,6 +29,10 @@ Contact me
 "npm run test"
 
 ### Contact-Information
-[Github Profile](https://github.com/coryjpiette)
+
 coryjpiette@gmail.com
+
+[Github Profile](https://github.com/coryjpiette)
+
+[Githib Live Page](https://coryjpiette.github.io/README-Generator/)
 
