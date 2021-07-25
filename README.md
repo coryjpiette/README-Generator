@@ -59,3 +59,7 @@ Github links:
 [Github Repo](https://github.com/coryjpiette/README-Generator)
 
 [Github Live Page](https://coryjpiette.github.io/README-Generator/)
+
+Active page screenshot:
+
+![image](https://user-images.githubusercontent.com/60293516/126904671-bd99bf33-6c16-4c93-a88f-5e1655db0c87.png)
